@@ -1,0 +1,18 @@
+.travelerFormContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-left: 16px
+}
+
+.travelerForm {
+    display: flex;
+    gap: 16px;
+}
+
+.expensesContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-left: 16px;
+}

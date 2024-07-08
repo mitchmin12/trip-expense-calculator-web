@@ -1,0 +1,29 @@
+.tripListItem {
+    width: 100%;
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 3px solid var(--color-accent-green);
+    /* background-color: var(--color-background-tertiary); */
+}
+
+.text {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    flex-grow: 1;
+}
+
+.buttonGroup {
+    display: flex;
+    gap: 1rem;
+    width: fit-content;
+}
+
+.tripListItem:last-child {
+    border-width: 0px;
+}
+
+.isSelectedTrip {
+    color: var(--color-accent-orange)
+}

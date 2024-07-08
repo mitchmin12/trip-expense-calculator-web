@@ -1,0 +1,5 @@
+.expenseForm {
+    display: flex;
+    gap: 16px;
+    margin-left: 16px;
+}

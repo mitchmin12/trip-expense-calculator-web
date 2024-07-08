@@ -1,0 +1,7 @@
+.trips {
+    height: 100vh;
+    padding: 2rem;
+    overscroll-behavior-y: none;
+    display: flex;
+    gap: 1rem;
+}
