@@ -14,7 +14,7 @@ Some of the main external libraries used are:
 # Dependencies Required
 - [VS Code](https://code.visualstudio.com/)
 - [Node.js](https://nodejs.org/en) >=v18.0.0
-- [TripExpenseCalculator.API](TODO INSERT LINK)
+- [TripExpenseCalculator.API](https://github.com/mitchmin12/TripExpenseCalculator.API)
 
 # How to run
 1. Clone the repo to your local machine
