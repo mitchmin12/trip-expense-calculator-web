@@ -1,7 +1,7 @@
 # Project Overview
 
 This is the web repo for the trip expense calculator.
-It's a react SPA setup using [vite](https://vitejs.dev/)
+It's a react SPA setup using vite
 
 Some of the main external libraries used are:
 - [Vite](https://vitejs.dev/): Used to setup and configure the project.
