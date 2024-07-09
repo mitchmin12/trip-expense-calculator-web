@@ -6,7 +6,7 @@ It's a react SPA setup using [vite](https://vitejs.dev/)
 Some of the main external libraries used are:
 - [Vite](https://vitejs.dev/): Used to setup and configure the project.
 - [React Router](https://reactrouter.com/en/main): Used for routing and to make the project an SPA.
-- [React Acre](https://www.npmjs.com/package/react-ace): Use to display code in the intro section.
+- [React Ace](https://www.npmjs.com/package/react-ace): Use to display code in the intro section.
 - [Styled Components](https://styled-components.com/): Used to build the re-usable UI components in the app.
 - [Vitest](https://vitest.dev/): Used for testing.
 - [Vitest UI](https://vitest.dev/guide/ui): Used to visualize tests.
