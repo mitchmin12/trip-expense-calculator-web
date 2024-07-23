@@ -21,7 +21,7 @@ Some of the main external libraries used are:
 2. Open the project in VS Code
 3. In a terminal enter the command "npm i"
 4. Make sure the API is running (Steps for how to do this listed in the TripExpenseCalculator.API readme.)
-5. In a terminal enter the command "npm run dev" to start the app. This should open the app on port 5173. It's critical the app is running on port 5173 because that's the port the the API sets the the CORS policy for. If this won't work you can change the CORS setup in the API, and the how to for that is listed in the API readme.
+5. In a terminal enter the command "npm run dev" to start the app. This should open the app on port 5173. It's critical the app is running on port 5173 because that's the port the the API sets the the CORS policy for. If this won't work you can change the CORS setup in the API.
 
 That should be all you need to do to run the app, if you have any questions feel free to reach out.
 
